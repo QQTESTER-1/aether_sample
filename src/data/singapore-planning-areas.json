@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Bishan" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[103.8391, 1.3504], [103.8491, 1.3504], [103.8491, 1.3604], [103.8391, 1.3604], [103.8391, 1.3504]]]
+      },
+      "id": "bishan"
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Tampines" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[103.9391, 1.3504], [103.9491, 1.3504], [103.9491, 1.3604], [103.9391, 1.3604], [103.9391, 1.3504]]]
+      },
+      "id": "tampines"
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Woodlands" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[103.7891, 1.4304], [103.7991, 1.4304], [103.7991, 1.4404], [103.7891, 1.4404], [103.7891, 1.4304]]]
+      },
+      "id": "woodlands"
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Jurong East" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[103.7391, 1.3304], [103.7491, 1.3304], [103.7491, 1.3404], [103.7391, 1.3404], [103.7391, 1.3304]]]
+      },
+      "id": "jurong east"
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Ang Mo Kio" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[103.8391, 1.3704], [103.8491, 1.3704], [103.8491, 1.3804], [103.8391, 1.3804], [103.8391, 1.3704]]]
+      },
+      "id": "ang mo kio"
+    }
+  ]
+}
